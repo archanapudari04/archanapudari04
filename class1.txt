@@ -1,1 +1,2 @@
 today is my first git class 
+my second commit to git 
